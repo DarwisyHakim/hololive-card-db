@@ -1,0 +1,1018 @@
+{
+  "hBP08-001": {
+    "name": "IRyS",
+    "type": "Oshi holomem",
+    "rarity": "OSR",
+    "color": "White",
+    "hp": 5,
+    "text": "Oshi Skill holo Power -2: Nephilim's Blessing\n[1/Turn] Choose 1 holomem on your stage. During this turn, the chosen holomem gets Arts+20. If the chosen holomem has purple cheer attached, it gets Arts+50 instead.\n\nSP Oshi Skill holo Power -2: HOPE and DESPAIR\n[1/Game] Draw 1 card for each cheer attached to all of your <IRyS>. Put 1 card from the top of your deck to holo Power for each purple cheer attached to all of your <IRyS>."
+  },
+  "hBP08-002": {
+    "name": "セシリア・イマーグリーン\n(Cecilia Immergreen)",
+    "type": "Oshi holomem",
+    "rarity": "OSR",
+    "color": "Green",
+    "hp": 5,
+    "text": "Oshi Stage Skill: Justice's Ancient Automaton\nAll of your <Cecilia Immergreen> are not set to active during your reset phase.\n\nOshi Skill holo Power -2: SPIN TO WIN!\n[1/Turn] Send the top 2 cards of your cheer deck divided as you choose to your resting <Cecilia Immergreen>. Then, set all holomem who received cheers from this ability to active."
+  },
+  "hBP08-003": {
+    "name": "FUWAMOCO",
+    "type": "Oshi holomem",
+    "rarity": "OSR",
+    "color": "Red",
+    "hp": 5,
+    "text": "Oshi Stage Skill: Are You Ready?\nAll red cheers attached to your [<Fuwawa Abyssgard> and <Mococo Abyssgard>] are also regarded as blue cheers.\n\nOshi Skill holo Power -2: Mococo Will Protect Everyone's Smiles!\n[1/Turn] If you have red cheer on your stage, return 1 holomem with #Advent from your archive to hand. If you have blue cheer on your stage, send 1 cheer from your archive to your holomem with #Advent.\n\n[OUR is the same as SEC but without the signatures]"
+  },
+  "hBP08-004": {
+    "name": "水宮枢\n(Mizumiya Su)",
+    "type": "Oshi holomem",
+    "rarity": "OSR",
+    "color": "Blue",
+    "hp": 5,
+    "text": "Oshi Skill holo Power -1: It Would Be Great If You Just Watched Su\n[1/Turn] Choose your opponent's center holomem. Until the end of your opponent's next turn, the chosen holomem requires +3 colorless for its baton pass.\n\nSP Oshi Skill holo Power -2: Ike Ike Don Don!\n[1/Game] Deal special damage to 1 of your opponent's back holomem equal to the amount of damage your opponent's center holomem has taken.\n\n[OUR is the same as SEC but without the signature]"
+  },
+  "hBP08-005": {
+    "name": "鷹嶺ルイ\n(Takane Lui)",
+    "type": "Oshi holomem",
+    "rarity": "OSR",
+    "color": "Purple",
+    "hp": 5,
+    "text": "Oshi Stage Skill: It's Already Friday Lui\nAt the end of your turn, if your center holomem is <Takane Lui> and you have a collab holomem, draw cards until your hand has 4 cards.\n\nOshi Skill holo Power -2: Hoisa Hoisa\n[1/Turn] Archive 2 cards from your hand. If you archived 2 cards with this ability, deal 50 special damage to your opponent's [center holomem and collab holomem] other than Debut.\n\n[OUR is the same as SEC but without the signature]"
+  },
+  "hBP08-006": {
+    "name": "一伊那尓栖\n(Ninomae Ina'nis)",
+    "type": "Oshi holomem",
+    "rarity": "OSR",
+    "color": "Purple",
+    "hp": 5,
+    "text": "Oshi Stage Skill: WORLD DOMINATION\nIf all holomem on your opponent's stage have a different color to their Oshi holomem, the Arts of all of your <Ninomae Ina'nis> may be used without cheer requirements.\n\nOshi Skill holo Power -X: Colors of Ina'nis\n[1/Turn] For each holo Power archived for this ability, choose 1 holomem on your opponent's stage. During this turn, the chosen holomem are regarded as holomem with all colors."
+  },
+  "hBP08-007": {
+    "name": "音乃瀬奏\n(Otonose Kanade)",
+    "type": "Oshi holomem",
+    "rarity": "OSR",
+    "color": "Yellow",
+    "hp": 5,
+    "text": "Oshi Skill holo Power -2: Kanade Melody\n[1/Turn] Usable at the end of your turn if your center holomem <Otonose Kanade> used Arts during this turn: Swap your center holomem with 1 of your back holomem with #ReGLOSS.\n\nSP Oshi Skill holo Power -1: Thank You for the Applause!\n[1/Game] Send the top 3 cards of your cheer deck to your center holomem <Otonose Kanade>. At the end of this turn, archive 3 cheers on your stage.\n\n[OUR is the same as SEC but without the signature]"
+  },
+  "hBP08-008": {
+    "name": "IRyS",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "White",
+    "hp": 130,
+    "text": "Collab Effect: Promise of Spring\nIf you went second and it is your first turn, choose 1 holomem on your stage with #Promise. During this turn, the chosen holomem gets Arts+30. Then, if there is purple cheer on your stage, draw 1 card.\n\nArts: Budding Spring\nCost: 1 any color\nPower: 30"
+  },
+  "hBP08-009": {
+    "name": "IRyS",
+    "type": "Debut holomem",
+    "rarity": "U",
+    "color": "White",
+    "hp": 110,
+    "text": "Collab Effect: Maybe the Day Will Come When We Can Understand Each Other\nLook at your holo Power. Reveal 1 support card from among them, and add it to hand. Then, shuffle your holo Power. If you added a card to hand, put the top card of your deck to holo Power.\n\nArts: I'm Looking for Something Much Deeper\nCost: 1 any color\nPower: 20"
+  },
+  "hBP08-010": {
+    "name": "IRyS",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "White",
+    "hp": 130,
+    "text": "Bloom Effect: Race with Me!!\nReveal 1 [<Bloom&Gloom> or <GuyRyS>] from your deck, and add it to hand. Then, shuffle the deck.\n\nArts: I am Lightning Speed\nCost: 1 any color\nPower: 40"
+  },
+  "hBP08-011": {
+    "name": "IRyS",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "White",
+    "hp": 170,
+    "text": "Collab Effect: The Hot Pink One\nIf a white cheer is attached to this holomem, draw 1 card.\n\nArts: Hot Ending\nCost: 1 any color\nPower: 30\nIf a purple cheer is attached to this holomem, draw 1 card."
+  },
+  "hBP08-012": {
+    "name": "IRyS",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "White",
+    "hp": 160,
+    "text": "Bloom Effect: A Road Illuminated by Hope\nYou may return 1 cheer from your stage to the bottom of the cheer deck: Send the top card of your cheer deck to your <IRyS>.\n\nArts: One Part Angel, One Part Demon\nCost: 1 white, 1 any color\nPower: 50\nIf a purple cheer is attached to this holomem, deal 20 special damage to your opponent's center holomem."
+  },
+  "hBP08-013": {
+    "name": "IRyS",
+    "type": "2nd holomem",
+    "rarity": "U",
+    "color": "White",
+    "hp": 200,
+    "text": "Gift: Victory Tea Time\nWhen this holomem downs your opponent's holomem, put the top card of your deck as holo power.\n\nArts: Did it Make Your Heart Flutter?\nCost: 1 white, 1 any color\nPower: 70+, +50 vs purple\nIf this holomem has purple cheer attached, this Arts gets +50."
+  },
+  "hBP08-014": {
+    "name": "IRyS",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "White",
+    "hp": 200,
+    "text": "Bloom Effect: The Light that Remains in Despair\nDeal 30 special damage to your opponent's center holomem. Additionally, if a purple cheer is attached to this holomem, deal 30 special damage to your opponent's collab holomem.\n\nArts: Prismatic Anthem\nCost: 1 white, 2 any color\nPower: 130+, +50 vs red\nDuring this turn, all holomem on your stage get Arts+20 for each purple cheer attached to this holomem."
+  },
+  "hBP08-015": {
+    "name": "ときのそら\n(Tokino Sora)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "White",
+    "hp": 120,
+    "text": "Gift: Can You Beat Me?\nThis holomem takes -10 Arts damage from your opponent's holomem.\n\nArts: Nine Darts\nCost: 1 any color\nPower: 20"
+  },
+  "hBP08-016": {
+    "name": "ときのそら\n(Tokino Sora)",
+    "type": "1st holomem",
+    "rarity": "U",
+    "color": "White",
+    "hp": 180,
+    "text": "Arts: Stairway to the Stars\nCost: 1 any color\nPower: 30\nIf there are 3 or more <Tokino Sora> on your stage, draw 1 card.\n\nArts: To the Skies of Time\nCost: 1 white, 2 any color\nPower: 90"
+  },
+  "hBP08-017": {
+    "name": "ときのそら\n(Tokino Sora)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "White",
+    "hp": 170,
+    "text": "Collab Effect: \"Vah!\"\nReveal 1 <Ankimo> from your deck, and add it to hand. Then, shuffle the deck.\n\nArts: Let's All Keep Moving Forward!\nCost: 1 white, 1 any color\nPower: 40+\nIf you have a 2nd holomem with #Gen 0 on your stage, this Arts gets +20."
+  },
+  "hBP08-018": {
+    "name": "ときのそら\n(Tokino Sora)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "White",
+    "hp": 210,
+    "text": "Bloom Effect: I Want to Be an Idol\n[Center Position・Collab Position Only] Draw 2 cards.\n\nArts: I Hope It Gets Everyone Excited!\nCost: 1 white, 3 any color\nPower: 150, +50 vs red\nIf your Oshi holomem is Tokino Sora, choose 1 other <Tokino Sora> on your stage. During this turn, you may also target your opponent's back 2nd holomem with the chosen holomem's Arts."
+  },
+  "hBP08-019": {
+    "name": "ラオーラ・パンテーラ\n(Raora Panthera)",
+    "type": "Debut holomem",
+    "rarity": "U",
+    "color": "White",
+    "hp": 120,
+    "text": "Gift: Buon Appetito -Enjoy Your Meal-\n■While this holomem does not have <Chattino> attached, this holomem requires -1 white cheer for its Arts.\n■While this holomem has <Chattino> attached, this holomem gets +30 HP.\n\nArts: Let's Share This Happiness\nCost: 1 white\nPower: 10\nIf this holomem does not have <Chattino> attached, attach 1 <Chattino> from your deck to this holomem. Then, shuffle the deck."
+  },
+  "hBP08-020": {
+    "name": "響咲リオナ\n(Isaki Riona)",
+    "type": "2nd holomem",
+    "rarity": "R",
+    "color": "White",
+    "hp": 180,
+    "text": "Collab Effect: Sexy Dance Queen\nYou may archive 1~2 cards from the top of your deck: Draw 1 card for each card archived.\n\nArts: A Challenging Gaze\nCost: 1 white, 1 any color\nPower: 110+, +50 vs red\nIf you have archived 3 cards from your deck this turn, this Arts gets +40."
+  },
+  "hBP08-021": {
+    "name": "セシリア・イマーグリーン\n(Cecilia Immergreen)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Green",
+    "hp": 120,
+    "text": "Collab Effect: Automaton, Roll Out!\nIf you went second and it is your first turn, reveal 2 <Otomo> from your deck, and add them to hand. Then, shuffle the deck.\n\nArts: Let the Festival Resound\nCost: 1 any color\nPower: 30"
+  },
+  "hBP08-022": {
+    "name": "セシリア・イマーグリーン\n(Cecilia Immergreen)",
+    "type": "Debut holomem",
+    "rarity": "U",
+    "color": "Green",
+    "hp": 130,
+    "text": "Gift: Escapement\nWhen this holomem uses baton pass and moves to the back position, this holomem is rested.\n\nArts: Let's Do It Elegantly\nCost: 1 any color\nPower: 20"
+  },
+  "hBP08-023": {
+    "name": "セシリア・イマーグリーン\n(Cecilia Immergreen)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Green",
+    "hp": 150,
+    "text": "Bloom Effect: Time to Be Together\nYou may rest this holomem. Then, if you have 2 or more resting holomem with #Justice, restore 50 HP to 1 of your holomem.\n\nArts: Very, Very Special!\nCost: 1 green\nPower: 40"
+  },
+  "hBP08-024": {
+    "name": "セシリア・イマーグリーン\n(Cecilia Immergreen)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Green",
+    "hp": 170,
+    "text": "Gift: Gute Reise -Have a Nice Trip-\n[Center Position・Collab Position Only] During your opponent's main phase, the HP of all of your resting <Cecilia Immergreen> cannot be reduced or changed by your opponent's abilities.\n\nArts: Wherever the Wind Takes You\nCost: 1 green\nPower: 60\nRest this holomem."
+  },
+  "hBP08-025": {
+    "name": "セシリア・イマーグリーン\n(Cecilia Immergreen)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Green",
+    "hp": 160,
+    "text": "Collab Effect: Café Time\nIf you have 2 or more resting holomem with #Justice, during this turn, all holomem on your stage get Arts+20.\n\nArts: Isn't It Important to Take Breaks?\nCost: 1 any color\nPower: 30"
+  },
+  "hBP08-026": {
+    "name": "セシリア・イマーグリーン\n(Cecilia Immergreen)",
+    "type": "2nd holomem",
+    "rarity": "U",
+    "color": "Green",
+    "hp": 200,
+    "text": "Collab Effect: Mechanical Streich\nIf you have 2 or more resting holomem with #Justice, during this turn, this holomem gets Arts+50.\n\nArts: Musical Winde\nCost: 1 green, 1 any color\nPower: 90, +50 vs blue"
+  },
+  "hBP08-027": {
+    "name": "セシリア・イマーグリーン\n(Cecilia Immergreen)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "Green",
+    "hp": 210,
+    "text": "Bloom Effect: Clockwork Rhapsody\nSend 1 cheer from your archive to this holomem for each of your resting holomem with #Justice.\n\nArts: Verdant Sturm\nCost: 1 green, 3 any color\nPower: 200, +50 vs yellow\nDraw 1 card for each of your resting holomem with #Justice. Then, rest this holomem."
+  },
+  "hBP08-028": {
+    "name": "アキ・ローゼンタール\n(Aki Rosenthal)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Green",
+    "hp": 170,
+    "text": "Bloom Effect: holonatsu Extra Large Parfait\nChoose 1 of your <Aki Rosenthal> with tool attached. During this turn, the chosen holomem gets Arts+20. If the chosen holomem is a Buzz holomem or 2nd holomem, that holomem gets Arts+50 instead.\n\nArts: Would You Like a Bite?\nCost: 1 green, 1 any color\nPower: 50\nRestore 30 HP to 1 of your holomem with tool attached."
+  },
+  "hBP08-029": {
+    "name": "風真いろは\n(Kazama Iroha)",
+    "type": "Debut holomem",
+    "rarity": "U",
+    "color": "Green",
+    "hp": 120,
+    "text": "Gift: Secret Love -Iroha-\n[Collab Position Only] [1/Turn] During your opponent's turn, when your center holomem with #holoX takes Arts damage, put the top card of your deck to holo Power.\n\nArts: On a Top Secret Mission, I Daresay\nCost: 1 green\nPower: 20"
+  },
+  "hBP08-030": {
+    "name": "パヴォリア・レイネ\n(Pavolia Reine)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Green",
+    "hp": 130,
+    "text": "Collab Effect: Step By Step\nYou may archive 1 holomem with #ID Gen 2 from your hand: Send the top card of your cheer deck to your back holomem.\n\nArts: Please Keep This in Mind...\nCost: 1 any color\nPower: 10"
+  },
+  "hBP08-031": {
+    "name": "パヴォリア・レイネ\n(Pavolia Reine)",
+    "type": "1st Buzz holomem",
+    "rarity": "R",
+    "color": "Green",
+    "hp": 250,
+    "text": "Gift: SPY-C1000\n[Center Position・Collab Position Only][1/Turn] During your turn, when your cheer is moved to archive, draw 1 card.\n\nArts: GWS+\nCost: 1 green, 1 any color\nPower: 60\nArchive the top card of your cheer deck. For every cheer color on your stage, restore 10 HP to 1 of your holomem.\n\nExtra: If this holomem is downed, you get life-2"
+  },
+  "hBP08-032": {
+    "name": "パヴォリア・レイネ\n(Pavolia Reine)",
+    "type": "2nd holomem",
+    "rarity": "U",
+    "color": "Green",
+    "hp": 180,
+    "text": "Bloom Effect: On a New Journey\nChoose 1 2nd holomem [<Kureiji Ollie> or <Anya Melfissa>] on your stage. During this turn, the chosen holomem gets Arts+70.\n\nArts: Structural Color\nCost: 2 any color\nPower: 80+, +50 vs blue\nIf you have a holomem with #ID Gen 2 other than <Pavolia Reine> with purple cheer or yellow cheer attached, this Arts gets +70."
+  },
+  "hBP08-033": {
+    "name": "パヴォリア・レイネ\n(Pavolia Reine)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "Green",
+    "hp": 190,
+    "text": "Collab Effect: Watcher's Gaze\nSend 1 cheer from your cheer deck to your holomem with #ID. Then, shuffle the cheer deck.\n\nArts: Knockout Twist\nCost: 1 green, 2 any color\nPower: 140, +50 vs blue\nSend 1~2 cheers from your archive to 1 of your <Pavolia Reine>."
+  },
+  "hBP08-034": {
+    "name": "モココ・アビスガード\n(Mococo Abyssgard)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Red",
+    "hp": 120,
+    "text": "Collab Effect: Trust in FUWAMOCO!\nIf you went second and it is your first turn, place 1 debut holomem [<Fuwawa Abyssgard> and <Mococo Abyssgard>] each from your deck on stage. Then, shuffle the deck.\n\nArts: Your Fuzzy Mococo\nCost: 1 any color\nPower: 30"
+  },
+  "hBP08-035": {
+    "name": "モココ・アビスガード\n(Mococo Abyssgard)",
+    "type": "Debut holomem",
+    "rarity": "U",
+    "color": "Red",
+    "hp": 130,
+    "text": "Arts: Yay, a Big Win!\nCost: 1 red\nPower: 10+\nIf a blue cheer is attached to this holomem, this Arts gets +30."
+  },
+  "hBP08-036": {
+    "name": "モココ・アビスガード\n(Mococo Abyssgard)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Red",
+    "hp": 140,
+    "text": "Bloom Effect: Dokidoki Doggy -Mococo-\nReveal 1 [<Pero>, <Ruffians> or <Mischievous Ruffians>] from your deck, and add it to hand. Then, shuffle the deck.\n\nArts: Together \"BAU\"DOL✩★\nCost: 1 any color\nPower: 40"
+  },
+  "hBP08-037": {
+    "name": "モココ・アビスガード\n(Mococo Abyssgard)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Red",
+    "hp": 170,
+    "text": "Bloom Effect: Twinkle Idol\nIf you have <Fuwawa Abyssgard> on your stage, deal 20 special damage to your opponent's center holomem or collab holomem.\n\nArts: GanBAUrune!\nCost: 2 red\nPower: 30\nIf 2 blue cheers are attached to this holomem, send the top card of your cheer deck to your <Fuwawa Abyssgard>."
+  },
+  "hBP08-038": {
+    "name": "モココ・アビスガード\n(Mococo Abyssgard)",
+    "type": "2nd holomem",
+    "rarity": "R",
+    "color": "Red",
+    "hp": 190,
+    "text": "Collab Effect: It's a Magical Weapon!\nIf your Oshi holomem is blue <FUWAMOCO>, return 1 holomem with #Advent from your archive to hand.\n\nArts: Mococo's Gonna Win!\nCost: 2 any color\nPower: 100, +50 vs green"
+  },
+  "hBP08-039": {
+    "name": "モココ・アビスガード\n(Mococo Abyssgard)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "Red",
+    "hp": 200,
+    "text": "Bloom Effect: Trust from the Abyss\nIf your stage has 6 or more blue cheers, set 1 of your resting <Fuwawa Abyssgard> to active.\n\nArts: Fuzzy Bounty Hunter\nCost: 3 red\nPower: 90+, +50 vs purple\nFor each blue cheer attached to this holomem, this Arts gets +20. Then, choose any number of blue cheers attached to this holomem, and reattach them to 1 of your <Fuwawa Abyssgard>."
+  },
+  "hBP08-040": {
+    "name": "百鬼あやめ\n(Nakiri Ayame)",
+    "type": "1st Buzz holomem",
+    "rarity": "R",
+    "color": "Red",
+    "hp": 220,
+    "text": "Collab Effect: Drawn In By the Scent of Sakura\nIf this holomem has <Demon Blade Asura> attached, and your opponent has no collab holomem, your opponent moves 1 of their back holomem to the collab position (Moving is not regarded as collab).\n\nArts: Sakura Viewing Date\nCost: 1 red, 1 any color\nPower: 30+\nThis Arts gets +10 for each red cheer in your archive.\n\nExtra: If this holomem is downed, you get life-2"
+  },
+  "hBP08-041": {
+    "name": "小鳥遊キアラ\n(Takanashi Kiara)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Red",
+    "hp": 130,
+    "text": "Gift: Phoenix Style Aerobics\nDuring your opponent's turn, when this holomem is downed, you may return this holomem to hand instead of archive.\n\nArts: It's a Real \"Fever Night\"!!!\nCost: 1 any color\nPower: 20\nArchive the top card of your deck."
+  },
+  "hBP08-042": {
+    "name": "小鳥遊キアラ\n(Takanashi Kiara)",
+    "type": "1st holomem",
+    "rarity": "U",
+    "color": "Red",
+    "hp": 170,
+    "text": "Bloom Effect: Guten Morgen -Good Morning-\nYou may archive 1~3 cards from your hand: Choose 1 holomem on your stage. During this turn, the chosen holomem gets Arts+10 for each card archived by this ability.\n\nArts: Kiwawa with Chonkers & Smoothie\nCost: 1 red\nPower: 40"
+  },
+  "hBP08-043": {
+    "name": "小鳥遊キアラ\n(Takanashi Kiara)",
+    "type": "1st Buzz holomem",
+    "rarity": "R",
+    "color": "Red",
+    "hp": 240,
+    "text": "Collab Effect: Firebird Sword Dance\nIf you have 10 or more holomem in your archive, during this turn, this holomem requires -2 red cheer for its Arts.\n\nArts: Resolve to Survive\nCost: 2 red\nPower: 50\nIf all holomem on your stage have #Myth, put the top card of your deck to holo Power.\n\nExtra: If this holomem is downed, you get life-2"
+  },
+  "hBP08-044": {
+    "name": "小鳥遊キアラ\n(Takanashi Kiara)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "Red",
+    "hp": 170,
+    "text": "Gift: The Light Shines Again\nDuring your main phase, if your archive has 10 or more holomem, you may bloom 1 of your holomem using this holomem from your archive. (This ability can only be used while this holomem is in archive)\n\nArts: Fearless Fire Vogel\nCost: 2 red\nPower: 100, +50 vs purple\nArchive 1~3 cards from the top of your deck."
+  },
+  "hBP08-045": {
+    "name": "ハコス・ベールズ\n(Hakos Baelz)",
+    "type": "2nd holomem",
+    "rarity": "R",
+    "color": "Red",
+    "hp": 200,
+    "text": "Collab Effect: Looks Like a Bountiful Harvest This Year!\nDuring this turn, when you roll a die for the ability of your Oshi holomem <Hakos Baelz> or your holomem <Hakos Baelz>, regard all numbers on the die as doubled.\n\nArts: I Want to Live True to Myself\nCost: 1 red\nPower: 50+, +50 vs green\nChoose 1 holomem on your stage and roll a die once. During this turn, the chosen holomem gets Arts+10x the result."
+  },
+  "hBP08-046": {
+    "name": "エリザベス・ローズ\nブラッドフレイム\n(Elizabeth Rose Bloodflame)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Red",
+    "hp": 170,
+    "text": "Gift: Majestic Devotion\n[Collab Position Only] During your opponent's turn, when your holomem with #Justice other than this holomem is downed, reveal 1 2nd holomem from your deck and add it to hand. Then, shuffle the deck.\n\nArts: Sweet Tooth\nCost: 1 red\nPower: 30"
+  },
+  "hBP08-047": {
+    "name": "水宮枢\n(Mizumiya Su)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Blue",
+    "hp": 120,
+    "text": "Collab Effect: Yes, Genius!\nIf you went second and it is your first turn, draw 1 card, and draw 1 more card for each colorless required for your opponent's center holomem's baton pass.\n\nArts: Is Your Su-Charge at 100%?\nCost: 1 blue\nPower: 30"
+  },
+  "hBP08-048": {
+    "name": "水宮枢\n(Mizumiya Su)",
+    "type": "Debut holomem",
+    "rarity": "U",
+    "color": "Blue",
+    "hp": 110,
+    "text": "Collab Effect: 183cm With Aura\nYou may archive 1 cheer from your stage: Reveal 1 <Aura> from your deck, and add it to hand. Then, shuffle the deck.\n\nArts: Big. Huge. Strong.\nCost: 1 any color\nPower: 30"
+  },
+  "hBP08-049": {
+    "name": "水宮枢\n(Mizumiya Su)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Blue",
+    "hp": 140,
+    "text": "Gift: I Get You on the Phone All to Myself\n[Collab Position Only]While you have a center holomem with #FLOW GLOW, your opponent's holomem's Arts can only target your collab holomem. However, it excludes special damage.\n\nArts: If It's Okay with You, Let's Talk More\nCost: 1 blue, 1 any color\nPower: 50"
+  },
+  "hBP08-050": {
+    "name": "水宮枢\n(Mizumiya Su)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Blue",
+    "hp": 160,
+    "text": "Gift: Should I Leave It to You?\nDuring your opponent's turn, when this holomem is downed, send the top card of your cheer deck to your back holomem.\n\nArts: Let's Build a Snowman\nCost: 1 blue\nPower: 20\nSend 1 cheer from your archive to your holomem."
+  },
+  "hBP08-051": {
+    "name": "水宮枢\n(Mizumiya Su)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Blue",
+    "hp": 170,
+    "text": "Gift: Love to Egosearch\n[Center Position Only] When your <Mizumiya Su> collabs, choose your opponent's center holomem. Until the end of your opponent's next turn, the chosen holomem requires +1 colorless for its baton pass.\n\nArts: For 8 Hours 35 Minutes\nCost: 1 blue, 1 any color\nPower: 40\nSend the top card of your cheer deck to your <Mizumiya Su>."
+  },
+  "hBP08-052": {
+    "name": "水宮枢\n(Mizumiya Su)",
+    "type": "2nd holomem",
+    "rarity": "U",
+    "color": "Blue",
+    "hp": 210,
+    "text": "Arts: Energy Restoration Gummi\nCost: 1 blue\nPower: 70, +50 vs red\nIf your opponent's center holomem requires 5 or more colorless cheers for its baton pass, send the top card of your cheer deck to your <Mizumiya Su>.\n\nArts: Gummis Are Yummy\nCost: 1 blue, 3 any color\nPower: 180, +50 vs red"
+  },
+  "hBP08-053": {
+    "name": "水宮枢\n(Mizumiya Su)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "Blue",
+    "hp": 160,
+    "text": "Gift: Shupi-shuwa~~!!!!\n[Center Position Only] While your opponent's center holomem requires 5 or more colorless cheers for its baton pass, your opponent's center holomem requires +2 colorless cheers for its Arts.\n\nArts: Deliver This Love\nCost: 2 blue, 1 any color\nPower: 50, +50 vs white\nIf your opponent's center holomem requires 5 or more colorless cheers for its baton pass, deal 100 special damage to 1 of your opponent's holomem other than Debut."
+  },
+  "hBP08-054": {
+    "name": "ムーナ・ホシノヴァ\n(Moona Hoshinova)",
+    "type": "2nd holomem",
+    "rarity": "R",
+    "color": "Blue",
+    "hp": 200,
+    "text": "Bloom Effect: This Bond Is Us!\nIf your Oshi holomem's color is green, blue or yellow, send 1 blue cheer each from your archive to 1~3 of your holomem with #ID Gen 1.\n\nArts: You're Not Alone, We're Together Now\nCost: 3 any color\nPower: 130, +50 vs red\nYou may archive 3 cheers from this holomem: Draw 3 cards."
+  },
+  "hBP08-055": {
+    "name": "フワワ・アビスガード\n(Fuwawa Abyssgard)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Blue",
+    "hp": 110,
+    "text": "Collab Effect: With FUWAMOCO, Everything Will Be Okay\nSend 1 cheer from your archive to your holomem with #Advent.\n\nArts: Your Fluffy Fuwawa\nCost: 1 blue\nPower: 20\nIf a red cheer is attached to this holomem, draw 1 card."
+  },
+  "hBP08-056": {
+    "name": "フワワ・アビスガード\n(Fuwawa Abyssgard)",
+    "type": "1st holomem",
+    "rarity": "U",
+    "color": "Blue",
+    "hp": 160,
+    "text": "Collab Effect: Dokidoki Doggy -Fuwawa-\nReveal 1 1st holomem <Mococo Abyssgard> from your deck, and add it to hand. Then, shuffle the deck.\n\nArts: I'm Going to Give It My All!\nCost: 1 any color\nPower: 40"
+  },
+  "hBP08-057": {
+    "name": "フワワ・アビスガード\n(Fuwawa Abyssgard)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Blue",
+    "hp": 180,
+    "text": "Collab Effect: Swing in the Sunlight Filtering through the Trees\nYou may choose any number of cheers on your stage, and reattach them to 1 of your <Mococo Abyssgard>. Then, if your stage has 8 or more cheers, during this turn, this holomem gets Arts+40.\n\nArts: Two People Close Together\nCost: 1 blue\nPower: 30+\nIf a red cheer is attached to this holomem, this Arts gets +20."
+  },
+  "hBP08-058": {
+    "name": "フワワ・アビスガード\n(Fuwawa Abyssgard)",
+    "type": "2nd holomem",
+    "rarity": "R",
+    "color": "Blue",
+    "hp": 200,
+    "text": "Arts: There's No Way You'll Win!\nCost: 1 blue, 1 any color\nPower: 100, +50 vs white\nChoose 1-2 blue cheers from your archive, and send them to your holomem with #Advent as you choose.\n\nArts: Now It's Our Turn!\nCost: 2 blue, 2 any color\nPower: 160, +50 vs white\nIf your Oshi holomem is blue <FUWAMOCO>, you may archive 2 cheers from this holomem: Deal 50 special damage to 1 of your opponent's holomem other than Debut."
+  },
+  "hBP08-059": {
+    "name": "フワワ・アビスガード\n(Fuwawa Abyssgard)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "Blue",
+    "hp": 210,
+    "text": "Gift: Love from the Abyss\nWhile your stage has 6 or more red cheers, you may also target your opponent's back holomem other than Debut with this holomem's Arts.\n\nArts: Fluffy Boundary Spanner\nCost: 3 blue\nPower: 80+, +50 vs white\nIf your <Mococo Abyssgard> used Arts this turn, this Arts gets +50. Then, choose any number of red cheers attached to this holomem, and reattach them to 1 of your <Mococo Abyssgard>."
+  },
+  "hBP08-060": {
+    "name": "FUWAMOCO",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Red/Blue",
+    "hp": 170,
+    "text": "Gift: \"BAU\" DOL♡\n[Collab Position Only] Your Oshi Skill \"Moco-chan!\" has its \"[holo Power:-3]\" changed to \"[holo Power:-2]\".\n\nArts: Together Forever♡\nCost: 2 any color\nPower: 50\nIf your Oshi holomem is blue <FUWAMOCO>, put the top card of your deck to holo Power.\n\nExtra: This holomem is also regarded as <Fuwawa Abyssgard> <Mococo Abyssgard>"
+  },
+  "hBP08-061": {
+    "name": "鷹嶺ルイ\n(Takane Lui)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Purple",
+    "hp": 120,
+    "text": "Collab Effect: Secret Society Hospitality\nIf you went second and it is your first turn, and your Oshi holomem is <Takane Lui>, your opponent adds the top card of their holo Power to hand.\n\nArts: Have Some holoX Coffee\nCost: 1 any color\nPower: 30"
+  },
+  "hBP08-062": {
+    "name": "鷹嶺ルイ\n(Takane Lui)",
+    "type": "Debut holomem",
+    "rarity": "U",
+    "color": "Purple",
+    "hp": 130,
+    "text": "Collab Effect: Prepared to be Taken Down\nYou may archive 1 card from your hand: Place 1 Debut holomem with Extra \"You may include any number of this holomem in the deck\" from your deck on stage. Then, shuffle the deck.\n\nArts: The Will to Take Down\nCost: 1 any color\nPower: 20"
+  },
+  "hBP08-063": {
+    "name": "鷹嶺ルイ\n(Takane Lui)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Purple",
+    "hp": 150,
+    "text": "Collab Effect: holoX Deal\nLook at the top 3 cards of your deck. Reveal 1 holomem with #holoX from among them, and add it to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nArts: How Do You Like It???\nCost: 1 purple\nPower: 40"
+  },
+  "hBP08-064": {
+    "name": "鷹嶺ルイ\n(Takane Lui)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Purple",
+    "hp": 170,
+    "text": "Collab Effect: Large Problems\nYou may archive 1 card from your hand: Deal 30 special damage to your opponent's center holomem or collab holomem.\n\nArts: Odd Jobs in the Sleepless City\nCost: 1 any color\nPower: 20\nAttach 1 <Lui-tomo> from your deck to 1 of your holomem. Then, shuffle the deck."
+  },
+  "hBP08-065": {
+    "name": "鷹嶺ルイ\n(Takane Lui)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Purple",
+    "hp": 180,
+    "text": "Bloom Effect: It's a Long Shot!\n[Center Position Only] You may archive 1 card from your hand: Roll a die once. If it is 1, draw 3 cards. If it is a number other than 1, draw 1 card.\n\nArts: I'm Gonna Win!\nCost: 2 purple\nPower: 50+\nIf your hand has 2 or less cards, this Arts gets +30."
+  },
+  "hBP08-066": {
+    "name": "鷹嶺ルイ\n(Takane Lui)",
+    "type": "2nd holomem",
+    "rarity": "U",
+    "color": "Purple",
+    "hp": 200,
+    "text": "Collab Effect: Is My Face That Red?\nYou may return 1 support card from your archive to the top of your deck.\n\nArts: Let's Sober Up, Shall We?\nCost: 1 any color\nPower: 60+, +50 vs yellow\nYou may archive 1~2 cards from your hand: This Arts gets +20 for each card archived."
+  },
+  "hBP08-067": {
+    "name": "鷹嶺ルイ\n(Takane Lui)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "Purple",
+    "hp": 200,
+    "text": "Bloom Effect: Violet Domination\n[Center Position Only] You may archive 2 cards from your hand: Reattach 1 cheer on your opponent's stage to their holomem.\n\nArts: One-Move Comeback\nCost: 3 purple\nPower: 130+, +50 vs green\nIf your hand has 2 or less cards, this Arts gets +50. If your hand has no cards, this Arts gets +70 instead."
+  },
+  "hBP08-068": {
+    "name": "一伊那尓栖\n(Ninomae Ina'nis)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Purple",
+    "hp": 140,
+    "text": "Collab Effect: Tako This!\nIf you went second and it is your first turn, during this turn, all of your opponent's holomem are regarded as holomem with all colors.\n\nArts: Dreamt I Went Outside\nCost: 1 purple\nPower: 10\nDeal 20 special damage to your opponent's center holomem and collab holomem with a different color to their Oshi holomem."
+  },
+  "hBP08-069": {
+    "name": "一伊那尓栖\n(Ninomae Ina'nis)",
+    "type": "Debut holomem",
+    "rarity": "U",
+    "color": "Purple",
+    "hp": 100,
+    "text": "Collab Effect: Arrival of Summer\nIf there are 3 or more holomem with #Painting on your stage, draw 1 card.\n\nArts: That Went Well, But We Can Do Better\nCost: 1 any color\nPower: 30"
+  },
+  "hBP08-070": {
+    "name": "一伊那尓栖\n(Ninomae Ina'nis)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Purple",
+    "hp": 180,
+    "text": "Collab Effect: Ina Imagination\nReveal 1 <Takodachi> from your deck, and add it to hand. Then, shuffle the deck.\n\nArts: My Lifelong Friend\nCost: 1 purple\nPower: 30\nRestore 10 HP to 1 of your holomem with #Myth for each holomem on your opponent's stage with a different color to their Oshi holomem."
+  },
+  "hBP08-071": {
+    "name": "一伊那尓栖\n(Ninomae Ina'nis)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Purple",
+    "hp": 150,
+    "text": "Bloom Effect: TOMORROW!?\nDeal 20 special damage to 1 of your opponent's holomem with a different color to their Oshi holomem.\n\nArts: Bonk!\nCost: 2 any color\nPower: 50"
+  },
+  "hBP08-072": {
+    "name": "一伊那尓栖\n(Ninomae Ina'nis)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Purple",
+    "hp": 170,
+    "text": "Bloom Effect: Natsu Ina!!\nIf you have 8 or more holomem with #Myth in your archive, return 1 holomem with #Myth from your archive to hand. You may only use Bloom Effect \"Natsu Ina!!\" once per turn.\n\nArts: Multicolor Sketch\nCost: 1 purple\nPower: 30+\nThe Arts gets +10 for each holomem on your opponent's stage with a different color to their Oshi holomem."
+  },
+  "hBP08-073": {
+    "name": "一伊那尓栖\n(Ninomae Ina'nis)",
+    "type": "2nd holomem",
+    "rarity": "U",
+    "color": "Purple",
+    "hp": 210,
+    "text": "Collab Effect: Behave Yourself, Okay?\nChoose 2 holomem on your opponent's stage. During this turn, the chosen holomem are regarded as holomem with all colors.\n\nArts: No Cookies for Snack Time!\nCost: 2 any color\nPower: 90, +50 vs blue"
+  },
+  "hBP08-074": {
+    "name": "一伊那尓栖\n(Ninomae Ina'nis)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "Purple",
+    "hp": 210,
+    "text": "Bloom Effect: Awaken, Crimson Eyes Obsidian Dragon\n[Center Position Only] Draw 1 card for each holomem on your opponent's stage with a different color to their Oshi holomem.\n\nArts: Necro Elimination!!\nCost: 3 any color\nPower: 110, +50 vs yellow\nYou may archive 1~3 cards from your hand: Choose 1 of your opponent's holomem for each card archived with this ability. During this turn, the chosen holomem are regarded as holomem with all colors."
+  },
+  "hBP08-075": {
+    "name": "ロボ子さん\n(Robocosan)",
+    "type": "2nd holomem",
+    "rarity": "R",
+    "color": "Purple",
+    "hp": 210,
+    "text": "Bloom Effect: Robocosan↔Roboser\nReveal 1 <Roboser> from your deck, and add it to hand. Then, shuffle the deck.\n\nArts: Let's Go Outside Together\nCost: 2 purple\nPower: 110+, +50 vs yellow\nThis Arts gets +20 for each <Roboser> attached to this holomem."
+  },
+  "hBP08-076": {
+    "name": "癒月ちょこ\n(Yuzuki Choco)",
+    "type": "2nd holomem",
+    "rarity": "R",
+    "color": "Purple",
+    "hp": 200,
+    "text": "Collab Effect: Dreaming of Delicious Food\nLook at the top 3 cards of your deck. Reveal 1 [holomem with #Cooking and/or event with #Food] each from among them, and add the revealed ccards to hand. Then, return the remaining cards to the bottom of the deck in any order.\n\nArts: After Eating a Big Meal\nCost: 1 purple, 2 any color\nPower: 120, +50 vs blue\nIf you have 3 or more events with #Food in your archive, restore 100 HP to this holomem."
+  },
+  "hBP08-077": {
+    "name": "音乃瀬奏\n(Otonose Kanade)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Yellow",
+    "hp": 120,
+    "text": "Collab Effect: Please Listen to My Cover Song\nIf you went second and it is your first turn, reveal 1 [1st holomem <Otonose Kanade> and/or <Recorder>] each from your deck, and add them to hand. Then, shuffle the deck.\n\nArts: Kanade Standby\nCost: 1 any color\nPower: 20"
+  },
+  "hBP08-078": {
+    "name": "音乃瀬奏\n(Otonose Kanade)",
+    "type": "Debut holomem",
+    "rarity": "U",
+    "color": "Yellow",
+    "hp": 100,
+    "text": "Collab Effect: It's a Fun Monday!!!!!!!!\nChoose 1 2nd holomem with #Singing on your stage. During this turn, the chosen holomem gets Arts+20.\n\nArts: Nerr Nerrrr\nCost: 1 any color\nPower: 20"
+  },
+  "hBP08-079": {
+    "name": "音乃瀬奏\n(Otonose Kanade)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Yellow",
+    "hp": 170,
+    "text": "Gift: Dawn Diva\nWhile you have a 2nd holomem with #ReGLOSS on your stage, this holomem gets +50 HP.\n\nArts: Pure Singing Voice\nCost: 1 any color\nPower: 10\nYou may send 1 cheer from your archive to your center holomem with #ReGLOSS."
+  },
+  "hBP08-080": {
+    "name": "音乃瀬奏\n(Otonose Kanade)",
+    "type": "1st holomem",
+    "rarity": "C",
+    "color": "Yellow",
+    "hp": 170,
+    "text": "Bloom Effect: Fighting Cheer\nIf the number of cheers on your stage is more than your opponent's, you may place 1 Debut holomem with #ReGLOSS from your deck on stage. Then, shuffle the deck.\n\nArts: Kanad-extraction\nCost: 1 any color\nPower: 20"
+  },
+  "hBP08-081": {
+    "name": "音乃瀬奏\n(Otonose Kanade)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Yellow",
+    "hp": 150,
+    "text": "Bloom Effect: A Feast of Sound\nSend 1 cheer from your archive to your center holomem <Otonose Kanade>.\n\nArts: Still Growing this Year\nCost: 1 yellow, 1 any color\nPower: 40+\n[Center Position Only] If you have 1 more cheer on your stage than your opponent, this Arts gets +20. If you have 2 or more, this Arts gets +40 instead."
+  },
+  "hBP08-082": {
+    "name": "音乃瀬奏\n(Otonose Kanade)",
+    "type": "2nd holomem",
+    "rarity": "U",
+    "color": "Yellow",
+    "hp": 190,
+    "text": "Collab Effect: It's Supposed to Be a Joyous Day, But...\nIf the number of cheers on your stage is more than your opponent's, during this turn, this holomem gets Arts+40.\n\nArts: I Can't Stop Crying\nCost: 1 yellow, 1 any color\nPower: 100, +50 vs white"
+  },
+  "hBP08-083": {
+    "name": "音乃瀬奏\n(Otonose Kanade)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "Yellow",
+    "hp": 190,
+    "text": "Bloom Effect: Hype Power-Up!\nIf the number of cheers on your stage is less than or equal to your opponent's, send 1~2 cheers from your archive to this holomem.\n\nArts: Kanade On Stage\nCost: 2 yellow, 1 any color\nPower: 120+, +50 vs blue\nIf the number of cheers on your stage is more than your opponent's, this Arts gets +20 for each cheer more."
+  },
+  "hBP08-084": {
+    "name": "夏色まつり\n(Natsuiro Matsuri)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Yellow",
+    "hp": 190,
+    "text": "Collab Effect: Elegant Tea Time!\nIf your life is 3 or less, during this turn, all holomem with #Gen 1 on your stage get Arts+20.\n\nArts: Machu is a Princess Too♡\nCost: 1 any color\nPower: 30+\nIf there is a 2nd holomem with #Gen 1 on your stage, this Arts gets +30."
+  },
+  "hBP08-085": {
+    "name": "不知火フレア\n(Shiranui Flare)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Yellow",
+    "hp": 120,
+    "text": "Collab Effect: Holding Hands Feels So Warm\nYou may archive 1 card from your hand: Return 1 [Debut holomem, 1st holomem or Spot holomem] from your archive to hand.\n\nArts: You're Not Very Good at Hiding Your Embarrassment\nCost: 1 any color\nPower: 10"
+  },
+  "hBP08-086": {
+    "name": "不知火フレア\n(Shiranui Flare)",
+    "type": "1st holomem",
+    "rarity": "U",
+    "color": "Yellow",
+    "hp": 160,
+    "text": "Bloom Effect: Ore no Ina!\nYou may send the top card of your cheer deck to your [<Shiranui Flare> or holomem with #EN].\n\nArts: Best Friend\nCost: 1 any color\nPower: 20+\nIf your center holomem is a 2nd holomem, this Arts gets +30."
+  },
+  "hBP08-087": {
+    "name": "不知火フレア\n(Shiranui Flare)",
+    "type": "2nd holomem",
+    "rarity": "R",
+    "color": "Yellow",
+    "hp": 200,
+    "text": "Collab Effect: Dreaming Cheer\nYou may send 1~2 cheers from your archive to your [<Shiranui Flare> or holomem with #EN] center holomem.\n\nArts: Waking From My Dream\nCost: 2 any color\nPower: 90, +50 vs blue"
+  },
+  "hBP08-088": {
+    "name": "不知火フレア\n(Shiranui Flare)",
+    "type": "2nd holomem",
+    "rarity": "RR",
+    "color": "Yellow",
+    "hp": 200,
+    "text": "Gift: Mellow and Flowery\n[1/Turn] During your turn, when this holomem moves to the collab position, deal 20 special damage to your opponent's center holomem and collab holomem.\n\nArts: Relation Fantasy\nCost: 2 yellow, 1 any color\nPower: 140+, +50 vs white\n[Collab Position Only] If your center holomem is a holomem with #Gen 3, this Arts gets +30."
+  },
+  "hBP08-089": {
+    "name": "ジジ・ムリン\n(Gigi Murin)",
+    "type": "1st holomem",
+    "rarity": "R",
+    "color": "Yellow",
+    "hp": 170,
+    "text": "Bloom Effect: Rapid Fire Wit\nYou may archive 1 holomem that is stacked to this holomem: Attach 1 <Popo> from your deck to your holomem. Then, shuffle the deck.\n\nArts: I Am a Gamer\nCost: 1 yellow\nPower: 30\nSend 1 cheer from your archive to your holomem with #Justice."
+  },
+  "hBP08-090": {
+    "name": "エレガントパソコン\n(Elegant PC)",
+    "type": "Support (Item)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "LIMITED: Only one can be used per turn.\n\nReturn 1~3 [mascots and fans] from your archive to the deck and shuffle it. Draw 2 cards."
+  },
+  "hBP08-091": {
+    "name": "クリエイターパソコン\n(Creator PC)",
+    "type": "Support (Item)",
+    "rarity": "U",
+    "color": "",
+    "hp": "",
+    "text": "Place 1 Debut holomem with Extra \"You may include any number of this holomem in the deck\" from your deck on stage. Then, shuffle the deck. Place 1 Debut holomem from your archive on stage."
+  },
+  "hBP08-092": {
+    "name": "思い出のドーナツショップ\n(Donut Shop Full of Memories)",
+    "type": "Support (Event)",
+    "rarity": "U",
+    "color": "",
+    "hp": "",
+    "text": "LIMITED: Only one can be used per turn.\n\nReveal 1 [<Fuwawa Abyssgard> and/or <Mococo Abyssgard>] each from your deck, and add them to hand. Then, shuffle the deck. If your life is less than your opponent's, deal 20 special damage to 1 of your opponent's holomem."
+  },
+  "hBP08-093": {
+    "name": "ちょこのなすユッケ\n(Choco's Eggplant Yukhoe)",
+    "type": "Support (Event)",
+    "rarity": "U",
+    "color": "",
+    "hp": "",
+    "text": "This card can only be used if all holomem on your stage are <Yuzuki Choco> and your life is 3 or less.\n\nDuring this turn, all [Debut holomem and 1st holomem] on your stage get Arts+20. Then, all 2nd holomem on your stage get Arts+60.\n\nYou may only use the card <Choco's Eggplant Yukhoe> once per turn."
+  },
+  "hBP08-094": {
+    "name": "パパは仕事を辞める\n(Papa Quits His Job)",
+    "type": "Support (Event)",
+    "rarity": "U",
+    "color": "",
+    "hp": "",
+    "text": "LIMITED: Only one can be used per turn.\n\nThis card can only be used if you have a collab holomem.\n\nChoose your center holomem. During your opponent's next turn, when the chosen holomem would take Arts damage for the first time while in the center position, that holomem takes -300 damage."
+  },
+  "hBP08-095": {
+    "name": "破滅の呪文\n(Doom)",
+    "type": "Support (Event)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "LIMITED: Only one can be used per turn.\n\nThis card can only be used if all holomem on your stage have #EN and you have 3 or less life.\n\nDeal 50 special damage to both players' center holomem and collab holomem. However, a player's life does not reduce even if downed."
+  },
+  "hBP08-096": {
+    "name": "優しいモンスター\n(Gentle Monster)",
+    "type": "Support (Event)",
+    "rarity": "U",
+    "color": "",
+    "hp": "",
+    "text": "LIMITED: Only one can be used per turn.\n\nThis card can only be used if your Oshi holomem is <Ichijou Ririka>.\n\nReveal 1 [<Ichijou Ririka> and/or <Struggle Meal>] each from your deck, and add them to hand. Then, shuffle the deck. If there are 3 or more <Struggle Meal> in your archive, during this turn, all <Ichijou Ririka> on your stage get Arts+50."
+  },
+  "hBP08-097": {
+    "name": "りっちしょこらのハンバーグ\n(Rich Chocolat's Hamburg Steak)",
+    "type": "Support (Event)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "Choose 1 holomem on your stage. Restore 20 HP to the chosen holomem. If you have 2 or more events with #Food in your archive, send 1 cheer from your archive to that holomem.\n\nYou may only use the card <Rich Chocolat's Hamburg Steak> once per turn."
+  },
+  "hBP08-098": {
+    "name": "hololive Mythology",
+    "type": "Support (Event)",
+    "rarity": "U",
+    "color": "",
+    "hp": "",
+    "text": "LIMITED: Only one can be used per turn\n\nThis card can only be used if all holomem on your stage have #Myth.\n\nReveal the top 4 cards of your deck. Add 2 of them to hand. Then, archive the remaining cards."
+  },
+  "hBP08-099": {
+    "name": "HOLOTORI",
+    "type": "Support (Event)",
+    "rarity": "U",
+    "color": "",
+    "hp": "",
+    "text": "Choose 1 of the following abilities to use.\n\n■Archive 1 cheer from your holomem with #Bird. If you archived a cheer, draw 2 cards, and return 1 card from your hand to the bottom of the deck.\n■Send 1 cheer from your archive to your holomem with #Bird.\n\nYou may only use the card <HOLOTORI> once per turn."
+  },
+  "hBP08-100": {
+    "name": "Myth",
+    "type": "Support (Event)",
+    "rarity": "U",
+    "color": "",
+    "hp": "",
+    "text": "LIMITED: Only one can be used per turn.\n\nThis card can only be used if you have 6 or less cards in hand excluding this card.\n\nLook at the top 4 cards of your deck. Reveal any number of holomem with #Myth from among them, and add the revealed holomem to hand. Then, return the remaining cards to the bottom of the deck in any order."
+  },
+  "hBP08-101": {
+    "name": "We are ReGLOSS",
+    "type": "Support (Event)",
+    "rarity": "U",
+    "color": "",
+    "hp": "",
+    "text": "LIMITED: Only one can be used per turn\n\nThis card can only be used if all holomem on your stage have #ReGLOSS.\n\nReveal 2 holomem with #ReGLOSS from your deck, and add them to hand. Then, shuffle the deck. If you have fewer holomem on stage than your opponent, draw 1 card, and archive 1 card from your hand."
+  },
+  "hBP08-102": {
+    "name": "クールなパーカー\n(Cool Hoodie)",
+    "type": "Support (Tool)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "The holomem with this tool attached gets Arts+10.\n\n◆Additional ability if attached to a Buzz holomem\n[1/Turn]When this holomem downs your opponent's holomem, draw 2 cards.\n\nOnly 1 tool can be attached to each of your holomem."
+  },
+  "hBP08-103": {
+    "name": "ホロマント\n(holoCape)",
+    "type": "Support (Tool)",
+    "rarity": "U",
+    "color": "",
+    "hp": "",
+    "text": "■The holomem with this tool attached gets +50 HP.\n■If the holomem with this tool attached is downed, you get life-1.\n\nOnly 1 tool can be attached to each of your holomem."
+  },
+  "hBP08-104": {
+    "name": "けはい\n(Aura)",
+    "type": "Support (Tool)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "◆Additional ability if attached to <Mizumiya Su>\n■[Center Position・Collab Position Only] Your opponent's center holomem requires +1 colorless for its baton pass.\n■When this holomem's bloom level increases, draw 1 card.\n\nOnly 1 tool can be attached to each of your holomem."
+  },
+  "hBP08-105": {
+    "name": "Bloom&Gloom",
+    "type": "Support (Mascot)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "The holomem this mascot is attached to gets +20 HP.\n\n◆Additional ability if attached to <IRyS>\nWhile this holomem has white cheer and purple cheer attached, this holomem gets Arts+20.\n\nOnly 1 mascot can be attached to each of your holomem."
+  },
+  "hBP08-106": {
+    "name": "GuyRyS",
+    "type": "Support (Fan)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "During your opponent's turn, if the holomem this fan is attached to is downed, reattach 1 cheer from the holomem this fan is attached to to your other holomem.\n\nYou may only attach this fan to your <IRyS>, and you may attach any number of this fan per holomem."
+  },
+  "hBP08-107": {
+    "name": "Otomo",
+    "type": "Support (Fan)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "The holomem this fan is attached to gets Arts+10.\n\nWhen this fan is attached to holomem from hand or archive, the holomem this fan is attached to is set to either active or resting.\n\nYou may only attach this fan to your <Cecilia Immergreen>, and you may attach any number of this fan per holomem."
+  },
+  "hBP08-108": {
+    "name": "いたずらなRuffians\n(Mischievous Ruffians)",
+    "type": "Support (Fan)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "The holomem this fan is attached to gets +10 HP.\n\nDuring your opponent's turn, if the holomem this fan is attached to is downed, if that holomem has red cheer attached, draw 1 card.\n\nYou may only attach this fan to your <Fuwawa Abyssgard> or <Mococo Abyssgard>, and you may attach any number of this fan per holomem."
+  },
+  "hBP08-109": {
+    "name": "ルイ友\n(Lui-tomo)",
+    "type": "Support (Fan)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "The holomem this fan is attached to gets Arts+10.\n\nDuring your opponent's turn, if the holomem this fan is attached to is downed, reattach 1 [red cheer or purple cheer] from the holomem this fan is attached to to your other holomem.\n\nYou may only attach this fan to your <Takane Lui>, and you may attach any number of this fan per holomem."
+  },
+  "hBP08-110": {
+    "name": "Takodachi",
+    "type": "Support (Fan)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "The holomem this fan is attached to gets Arts+10.\n\n[Center Position Only] Your opponent's center holomem and collab holomem are regarded as holomem with all colors.\n\nYou may only attach this fan to your <Ninomae Ina'nis>, and you may attach any number of this fan per holomem."
+  },
+  "hBP01-028": {
+    "name": "IRyS",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "White",
+    "hp": 100,
+    "text": "Arts: HiRyS!\nCost: 1 any color\nPower: 30\n\nExtra: You may include any number of this holomem in the deck"
+  },
+  "hBP02-018": {
+    "name": "パヴォリア・レイネ\n(Pavolia Reine)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Green",
+    "hp": 100,
+    "text": "Arts: Perhatian!\nCost: 1 any color\nPower: 30\n\nExtra: You may include any number of this holomem in the deck"
+  },
+  "hBP04-028": {
+    "name": "セシリア・イマーグリーン\n(Cecilia Immergreen)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Green",
+    "hp": 100,
+    "text": "Arts: Melody of Justice\nCost: 1 any color\nPower: 30\n\nExtra: You may include any number of this holomem in the deck"
+  },
+  "hBP01-056": {
+    "name": "鷹嶺ルイ\n(Takane Lui)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Red",
+    "hp": 100,
+    "text": "Arts: Did I Luive you waiting?\nCost: 1 any color\nPower: 30\n\nExtra: You may include any number of this holomem in the deck"
+  },
+  "hBP01-062": {
+    "name": "小鳥遊キアラ\n(Takanashi Kiara)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Red",
+    "hp": 90,
+    "text": "Arts: Kikkeriki!\nCost: 1 any color\nPower: 20+\nYou may archive 1 card from your hand:This Arts gets +20.\n\nExtra: You may include any number of this holomem in the deck"
+  },
+  "hBP03-037": {
+    "name": "モココ・アビスガード\n(Mococo Abyssgard)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Red",
+    "hp": 80,
+    "text": "Arts: I'm not Fuwawa, I'm Mococo\nCost: 1 any color\nPower: 20\nIf your center holomem is <Fuwawa Abyssgard>, this Arts requires -1 colorless.\n\nExtra: You may include any number of this holomem in the deck"
+  },
+  "hBP03-040": {
+    "name": "フワワ・アビスガード\n(Fuwawa Abyssgard)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Blue",
+    "hp": 100,
+    "text": "Arts: I'm not a Chihuahua, I'm Fuwawa!\nCost: 1 any color\nPower: 30\n\nExtra: You may include any number of this holomem in the deck"
+  },
+  "hSD11-007": {
+    "name": "水宮枢\n(Mizumiya Su)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Blue",
+    "hp": 120,
+    "text": "Arts: ​Shupi Shuwa\nCost: 1 any color\nPower: 20\nUntil the end of your opponent's next turn, 1 of your opponent's center holomem requires +1 colorless for its baton pass.\n\nExtra: You may include any number of this holomem in the deck"
+  },
+  "hBP02-061": {
+    "name": "一伊那尓栖\n(Ninomae Ina'nis)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Purple",
+    "hp": 140,
+    "text": "Arts: WAH!\nCost: 1 any color\nPower: 10\n\nExtra: You may include any number of this holomem in the deck"
+  },
+  "hBP03-080": {
+    "name": "音乃瀬奏\n(Otonose Kanade)",
+    "type": "Debut holomem",
+    "rarity": "C",
+    "color": "Yellow",
+    "hp": 130,
+    "text": "Arts: Do-Re-Mi-Fa-So-La-Si-Do!\nCost: 1 any color\nPower: 20\n\nArts: Aspiring Musician, Otonose Kanade~!\nCost: 3 any color\nPower: 50\n\nExtra: You may include any number of this holomem in the deck"
+  },
+  "hSD14-010": {
+    "name": "holoAN",
+    "type": "Support (Staff)",
+    "rarity": "C",
+    "color": "",
+    "hp": "",
+    "text": "LIMITED: Only one can be used per turn.\n\nDraw 3 cards."
+  },
+  "hY01-013": {
+    "name": "白エール\n(White Cheer)",
+    "type": "Cheer",
+    "rarity": "SY",
+    "color": "White",
+    "hp": "",
+    "text": "[the base version cheer is not available in BP08 packs]"
+  },
+  "hY02-011": {
+    "name": "緑エール\n(Green Cheer)",
+    "type": "Cheer",
+    "rarity": "SY",
+    "color": "Green",
+    "hp": "",
+    "text": "[the base version cheer is not available in BP08 packs]"
+  },
+  "hY03-015": {
+    "name": "赤エール\r\n(Red Cheer)",
+    "type": "Cheer",
+    "rarity": "SY",
+    "color": "Red",
+    "hp": "",
+    "text": "[the base version cheer is not available in BP08 packs]"
+  },
+  "hY04-012": {
+    "name": "青エール\r\n(Blue Cheer)",
+    "type": "Cheer",
+    "rarity": "SY",
+    "color": "Blue",
+    "hp": "",
+    "text": "[the base version cheer is not available in BP08 packs]"
+  },
+  "hY05-010": {
+    "name": "紫エール\n(Purple Cheer)",
+    "type": "Cheer",
+    "rarity": "SY",
+    "color": "Purple",
+    "hp": "",
+    "text": "[the base version cheer is not available in BP08 packs]"
+  },
+  "hY06-010": {
+    "name": "黄エール\n(Yellow Cheer)",
+    "type": "Cheer",
+    "rarity": "SY",
+    "color": "Yellow",
+    "hp": "",
+    "text": "[the base version cheer is not available in BP08 packs]"
+  }
+}
